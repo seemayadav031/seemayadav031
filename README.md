@@ -46,10 +46,15 @@ Here are some ideas to get you started:
 **☁️ Cloud :** `AWS` `Azure (Entra ID)`
 
 **📦 Containers & Orchestration :** `Docker` `Kubernetes` `Helm` `Argo CD`
+
 **🏗 Infrastructure as Code :** `Terraform`
+
 **🔁 CI/CD & Automation :** `GitHub Actions` `Jenkins` `Bitbucket Pipelines`
+
 **📊 Monitoring & Observability :** `Prometheus` `Grafana` `ELK`
+
 **🗄 Databases :** `PostgreSQL` `MongoDB`
+
 **📜 Scripting :** `Python` `Bash`
 
 ---
