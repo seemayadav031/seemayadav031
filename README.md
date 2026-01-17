@@ -68,7 +68,7 @@ Focused on **AI-assisted development**, authentication, and production deploymen
 
 ### 📫 Connect With Me
 - 💼 [LinkedIn](https://www.linkedin.com/in/seema-yadav-484462222)
-- 📧 [Email](mailto:seemayad742@gmail.com)
+- 📧 seemayad742@gmail.com
 
 ---
 
