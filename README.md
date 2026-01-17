@@ -44,6 +44,7 @@ Here are some ideas to get you started:
 ### 🛠 Tech Stack
 
 **☁️ Cloud :** `AWS` `Azure (Entra ID)`
+
 **📦 Containers & Orchestration :** `Docker` `Kubernetes` `Helm` `Argo CD`
 **🏗 Infrastructure as Code :** `Terraform`
 **🔁 CI/CD & Automation :** `GitHub Actions` `Jenkins` `Bitbucket Pipelines`
