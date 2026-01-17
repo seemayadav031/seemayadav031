@@ -16,38 +16,57 @@ Here are some ideas to get you started:
 -->
 
 
-## Hi 👋 I'm Seema Yadav
+<h1 align="center">Hi 👋 I'm Seema Yadav</h1>
 
-DevOps Engineer | Learning Vibecoding | Optimizing using AI.
+<p align="center">
+  <strong>DevOps Engineer</strong> · Cloud · Automation · Reliability  
+  <br/>
+  Learning Vibecoding · Optimizing Systems with AI
+</p>
 
-### 🔧 What I Do
-- Automate cloud infrastructure using Terraform and AWS
-- Build GitOps-based CI/CD pipelines with Argo CD, Helm, and Kubernetes
-- Improve system availability, security, and performance
-- Optimize cloud costs and enforce security best practices
+---
 
-### 🏢 Experience
-**DevOps Engineer – Wizfreight**
+### ⚙️ What I Focus On
+- 🚀 Automating cloud infrastructure using **Terraform** and **AWS**
+- 🔄 Building GitOps CI/CD pipelines with **Argo CD**, **Helm**, and **Kubernetes**
+- 🛡 Improving availability, security, and system performance
+- 💰 Optimizing cloud costs with measurable impact
 
-**Backend Developer Trainee – FunctionUp**
+---
 
-**CAIR DRDO – Research Intern**
+### 🏢 Experience Snapshot
+- **DevOps Engineer** — Wizfreight  
+- **Backend Developer Trainee** — FunctionUp  
+- **Research Intern** — CAIR DRDO  
+
+---
 
 ### 🛠 Tech Stack
-- **Cloud:** AWS, Azure (Entra ID)
-- **Containers:** Docker, Kubernetes, Helm, Argo CD
-- **IaC:** Terraform
-- **CI/CD:** GitHub Actions, Jenkins, Bitbucket Pipelines
-- **Monitoring:** Prometheus, Grafana, ELK
-- **Databases:** PostgreSQL, MongoDB
-- **Scripting:** Python, Bash
 
-### 🚀 Projects
-- **[Job Application Tracker](https://job-application-tracker-flame-theta.vercel.app/)** – Full-stack app (Next.js, TypeScript, PostgreSQL, Prisma)  
-  Learning AI-assisted development with production deployment on Vercel.
-  
+**☁️ Cloud :** `AWS` `Azure (Entra ID)`
+**📦 Containers & Orchestration :** `Docker` `Kubernetes` `Helm` `Argo CD`
+**🏗 Infrastructure as Code :** `Terraform`
+**🔁 CI/CD & Automation :** `GitHub Actions` `Jenkins` `Bitbucket Pipelines`
+**📊 Monitoring & Observability :** `Prometheus` `Grafana` `ELK`
+**🗄 Databases :** `PostgreSQL` `MongoDB`
+**📜 Scripting :** `Python` `Bash`
 
-### 📫 Connect with Me
-- 🔗 [LinkedIn](https://www.linkedin.com/in/seema-yadav-484462222)
+---
+
+### 🚀 Featured Project
+**🔹 [Job Application Tracker](https://job-application-tracker-flame-theta.vercel.app/)**  
+Full-stack application built with `Next.js`, `TypeScript`, `PostgreSQL`, and `Prisma`.  
+Focused on **AI-assisted development**, authentication, and production deployment on **Vercel**.
+
+---
+
+### 📫 Connect With Me
+- 💼 [LinkedIn](https://www.linkedin.com/in/seema-yadav-484462222)
 - 📧 [Email](mailto:seemayad742@gmail.com)
+
+---
+
+<p align="center">
+  <em>Building reliable systems, one deployment at a time.</em>
+</p>
 
