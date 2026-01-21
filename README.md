@@ -64,6 +64,9 @@ Here are some ideas to get you started:
 Full-stack application built with `Next.js`, `TypeScript`, `PostgreSQL`, and `Prisma`.  
 Focused on **AI-assisted development**, authentication, and production deployment on **Vercel**.
 
+**🔹 [Generate Dockerfile using LLM](https://github.com/seemayadav031/generate_dockerfile_local_llm)**
+Created a Python-based GenAI DevOps tool leveraging a local LLaMA LLM via Ollama to automate Dockerfile generation with enterprise-ready best practices.
+
 ---
 
 ### 📫 Connect With Me
